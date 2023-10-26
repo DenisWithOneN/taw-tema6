@@ -1,0 +1,19 @@
+.black-border {
+    border: 2px solid black;
+    
+}
+
+.profile-section {
+    min-height: 20rem;
+}
+
+.cover-photo {
+    min-height: 15rem;
+}
+
+.profile-photo {
+    min-height: 10rem;
+    max-width: 10rem;
+    border: 0.1rem solid black;
+    background-color: red;
+}
