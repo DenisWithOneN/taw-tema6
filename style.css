@@ -17,3 +17,9 @@
     border: 0.1rem solid black;
     background-color: rgb(0, 0, 0);
 }
+
+.cover-buttons {
+    background-color: white;
+    border: 0.3rem solid white;
+    margin: auto;
+}
