@@ -16,6 +16,11 @@
     width: 10rem;
 }
 
+.small-pfp {
+    height: 3rem;
+    width: 3rem;
+}
+
 .cover-buttons {
     background-color: white;
     border: 0.3rem solid white;
